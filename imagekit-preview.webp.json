@@ -1,0 +1,6 @@
+{
+  "prompt": "Sourced asset, not AI-generated: existing project screenshot from output/imagekit-live.jpg. Website: https://jokojoyo.github.io/imagekit-studio/. Top-viewport extraction and WebP conversion; original website pixels preserved.",
+  "origin": "Existing project screenshot: output/imagekit-live.jpg. https://jokojoyo.github.io/imagekit-studio/",
+  "method": "Top-viewport extraction and WebP conversion; original website pixels preserved.",
+  "source": "output/imagekit-live.jpg"
+}
