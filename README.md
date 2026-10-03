@@ -4,6 +4,8 @@
 
 A cinematic coastal portfolio of six original, working website concepts. Scroll to move through a sculpted island world, explore the project gallery, or switch motion off. The page includes responsive navigation, self-hosted fonts, exact film posters, a reduced-motion version, and readable pre-rendered content. Publicly hosted on GitHub Pages with no visitor account required.
 
+The typography uses stronger serif headings, larger navigation and project labels, and mist reading surfaces that preserve contrast over the moving scene.
+
 ## Current editable source
 
 Download [cinematic-source.zip](cinematic-source.zip) for the complete React/Vite project, source files, lockfile, design brief, licensed fonts, generated media and asset provenance. Unzip it, run npm ci, then npm run dev. Requires Node.js 22.12 or newer. Run npm run build and publish every file in dist/ to the repository root.
