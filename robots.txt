@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://jokojoyo.github.io/sitemap.xml
